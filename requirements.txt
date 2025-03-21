@@ -1,0 +1,7 @@
+torch
+timm
+Pillow
+litserve
+requests
+fastapi
+uvicorn 
