@@ -63,4 +63,7 @@ if response.status_code == 200:
 
 ## API Documentation
 
-API documentation is available at http://127.0.0.1:8000/docs when the server is running. 
+API documentation is available at http://127.0.0.1:8000/docs when the server is running.
+
+---
+Last updated: March 21, 2025 
